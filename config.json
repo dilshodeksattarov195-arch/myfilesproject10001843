@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productvender",
+        "uuid": 16843177,
+        "checksum": "tcg106"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
